@@ -1,2 +1,2 @@
 # cs305_assignment_5
-### This porject has been constructed increase the communication between project memebers
+### This porject has been constructed to increase the communication between project memebers
